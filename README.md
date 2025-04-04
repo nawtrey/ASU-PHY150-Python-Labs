@@ -23,10 +23,11 @@ To work on your own version:
 > **Tip:** Rename your copy with your name or assignment title for easy identification.
 
 
-### Step 3: Run the Notebook
+### Step 3: Complete the Notebook
 
-- Click **Runtime > Run all** to run every cell in the notebook
-- Or run cells one by one by clicking the **▶️** play button next to each code block
+- Work through the notebook at your own pace
+- Run the example cells using `Ctrl + Enter` or clicking the **▶️** play button next to each code block 
+- Make sure to complete the "Try it Yourself" sections as well as any challenge problems 
 
 
 ### Step 4: Submit Your Work
