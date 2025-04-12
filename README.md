@@ -47,5 +47,6 @@ Once you're finished:
 Authors 
 --------
  - Nikolaus Awtrey
+ - Allison Boley
  - Peter Smith
  - Kevin Trinh
